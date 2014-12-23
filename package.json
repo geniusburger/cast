@@ -1,0 +1,23 @@
+{
+  "name": "cast",
+  "version": "0.0.0",
+  "authors": [
+    "geniusburger <jdst8-git@yahoo.com>"
+  ],
+  "description": "Menu of cast apps.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "cast.geniusburger.me",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-open": "^0.2.3",
+    "load-grunt-tasks": "^1.0.0"
+  }
+}

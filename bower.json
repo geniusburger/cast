@@ -1,0 +1,23 @@
+{
+  "name": "cast",
+  "version": "0.0.0",
+  "authors": [
+    "geniusburger <jdst8-git@yahoo.com>"
+  ],
+  "description": "Menu of cast apps.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "cast.geniusburger.me",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "knockout": "~3.2.0"
+  }
+}
