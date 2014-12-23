@@ -16,4 +16,4 @@ Hosted at [cast.geniusburger.me](http://cast.geniusburger.me).
 0. Run the following commands from the root of the repo:
    0. `npm install` to install/download the dev dependencies.
    0. `bower install` to install/download the run-time dependencies.
-   0. `grunt` to run the default task and build the page into the 'dist' directory.
+   0. `grunt` to run the default task and build the page into the `dist` directory.
